@@ -1,0 +1,32 @@
+{
+  "name": "blog",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon --inspect index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mhfed/nodejs.git"
+  },
+  "keywords": [
+    "node",
+    "js",
+    "hieunmph17303",
+    "nodejs"
+  ],
+  "author": "hieuminh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mhfed/nodejs/issues"
+  },
+  "homepage": "https://github.com/mhfed/nodejs#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
